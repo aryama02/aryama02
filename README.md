@@ -33,10 +33,10 @@ ML model predicting housing prices across 16 NY counties (Manhattan to upstate).
 
 ## 📫 Connect
 
-**LinkedIn:** [Your LinkedIn] | **Email:** [Your Email]
+**LinkedIn:** [https://www.linkedin.com/in/mahadi-hossain-aryan-660520227/] | **Email:** [mahadihossainaryan@gmail.com]
 
 Open to internship opportunities, collaborations, and conversations about AI/ML.
 
----
+
 
 *Code is collaborative. Innovation is diverse. Impact is intentional.*

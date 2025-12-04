@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm [Mahadi Hossain Aryan ]
 
 ### CS + Data Science @ Luther College | AI/ML Engineer in the making
 
@@ -115,6 +115,4 @@ mindmap
 
 *Open to internship opportunities, collaborations, and conversations about AI/ML*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" />
 
-</div>

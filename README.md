@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Mahadi Aryan 👋
 
-<!--
-**aryama02/aryama02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS + Data Science @ Luther College | AI/ML Engineer in the making**
 
-Here are some ideas to get you started:
+Sophomore building ML solutions and leading teams. I code, but I also bring people together to get things done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • Java • JavaScript • SQL (MySQL, PostgreSQL) • HTML/CSS  
+**Frameworks:** Tailwind CSS • Bootstrap  
+**Focus:** AI/ML Engineering • Data Analysis • Predictive Modeling
+
+---
+
+## 🚀 What I'm Building
+
+**🏠 NY House Price Prediction Model**  
+ML model predicting housing prices across 16 NY counties (Manhattan to upstate). Analyzing geographic and economic patterns that drive property values.
+
+*Tech: Python, scikit-learn, pandas*
+
+---
+
+## 🌟 Beyond Code
+
+- 👥 **President, International Students Allies & Association** – Leading 400+ students, organized multicultural fashion show
+- 💡 **President, Computer Science Society** – Building technical community, managing teams of 5
+- 🤝 I bring technical skills + people skills. The best solutions come from diverse, collaborative teams.
+
+---
+
+## 📫 Connect
+
+**LinkedIn:** [Your LinkedIn] | **Email:** [Your Email]
+
+Open to internship opportunities, collaborations, and conversations about AI/ML.
+
+---
+
+*Code is collaborative. Innovation is diverse. Impact is intentional.*

@@ -1,18 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Aryan!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future,%20one%20pixel%20at%20a%20time.&descAlignY=51&descAlign=50" alt="Header" width="100%"/>
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Aryan%20Hossain&fontSize=80&animation=fadeIn&fontAlignY=40&desc=AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Training&descAlignY=55&descAlign=50" width="100%">
 
-  ### 🚀 Full Stack Developer | AI Enthusiast | Java Specialist
+  <!-- Neural Network GIF below the banner -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-  <p align="center">
-    <a href="https://github.com/aryan">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="180" src="https://miro.medium.com/v2/resize:fit:1400/1*vbX3CLJspQqKqRR3YKHyjw.gif">
+
+  <h3>🚀 Software Developer | Java Specialist | AI & ML Explorer</h3>
+
+  <p>
+    <a href="https://github.com/aryama02">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:aryama02@luther.edu">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
 
@@ -20,19 +26,19 @@
 
 ---
 
-### 🧐 About Me
+### 🧠 About Me
 
-I'm a developer who loves turning complex problems into elegant solutions. I thrive on the challenge of building scalable backends and immersive frontends.
+Hi! I’m **Aryan**, a passionate developer who enjoys building intelligent systems, learning how machines think, and turning ideas into working technology.
 
-**The Good Stuff:**
-*   **Top-Tier Problem Solver:** I don't just write code; I engineer solutions. (Check out my custom Data Structures!)
-*   **Full-Stack Wizardry:** From 3D interactive globes to robust Python backends, I bridge the gap between design and logic.
-*   **AI Integrator:** Passionate about bringing local LLMs to life in practical applications.
+I’m focused on:
 
-**The "Human" Side (My "Flaws"):**
-*   🐛 **Over-Engineering Enthusiast:** I might build a nuclear-powered flyswatter because... why not? It's fun!
-*   🎨 **Pixel-Perfectionist:** I can spend an embarrassing amount of time ensuring that one button hover effect is *just right*.
-*   ☕ **Caffeine Dependent:** My code quality is directly proportional to my coffee intake.
+- 🤖 **Artificial Intelligence & Local LLMs**  
+- 🧩 **Data Structures & Algorithms**  
+- ☕ **Java Development**  
+- 🐍 **Python Applications & Automation**
+
+Every project is a chance to improve, optimize, and innovate.  
+I believe in disciplined engineering, clean code, and solving real-world problems through technology.
 
 ---
 
@@ -40,55 +46,57 @@ I'm a developer who loves turning complex problems into elegant solutions. I thr
 
 <div align="center">
 
-| **Languages** | **Frontend** | **Backend** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Languages** | **AI & Backend** | **Web** | **Tools** |
+|:-------------:|:----------------:|:-------:|:---------:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-### 🏆 Featured Projects
+### 🔬 Featured Projects
 
 <details>
-<summary><b>🌍 House Price Predictor (HPP)</b> - <i>Click to expand</i></summary>
+<summary><b>🧠 AI Voice Assistant (Local LLM Powered)</b></summary>
 <br>
-A full-stack application featuring a stunning 3D interactive globe UI.
-
-*   **Tech:** Python (Backend), HTML/CSS/JS (Frontend), 3D Globe Libs.
-*   **Highlight:** Seamless integration of complex backend prediction logic with a responsive, high-performance frontend.
+An offline, privacy-focused voice AI using Python + Ollama + DeepSeek.  
+Understands commands, speaks responses, opens apps, and fetches weather.
+<br><br>
+<b>Tech:</b> Python, Local LLMs, Speech Synthesis, Web APIs
 </details>
 
 <details>
-<summary><b>🤖 AI Chatbot Integration</b> - <i>Click to expand</i></summary>
+<summary><b>💻 House Price Predictor (HPP)</b></summary>
 <br>
-Bringing the power of LLMs to the local environment.
-
-*   **Tech:** Python, Ollama, Local LLMs.
-*   **Highlight:** Successfully integrated local Ollama models for a privacy-focused, responsive chat experience.
+A machine-learning powered housing price predictor with a clean UI and responsive backend.
+<br><br>
+<b>Tech:</b> Python, ML Models, Flask, JavaScript
 </details>
 
 <details>
-<summary><b>📚 Custom Data Structures Library</b> - <i>Click to expand</i></summary>
+<summary><b>📦 Custom Data Structures Library</b></summary>
 <br>
-Deep dive into the fundamentals of Computer Science.
-
-*   **Tech:** Java.
-*   **Highlight:** Implemented robust `ArrayList`, `Stack`, and `FIFOQueue` from scratch, ensuring O(n!) efficiency where required and handling complex generics.
+Implemented ArrayList, Stack, and Queue in Java from scratch.  
+Focus on deep CS fundamentals and complexity awareness.
+<br><br>
+<b>Tech:</b> Java, Generics, Big-O Analysis
 </details>
 
 ---
 
-### ⚡ GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan&show_icons=true&theme=radical&hide_border=true" alt="Aryan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryama02&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryama02&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Aryan</sub>
+  <sub>Crafted with precision and ambition — by Aryan</sub>
 </div>
+

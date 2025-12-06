@@ -63,7 +63,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <div align="center">
-Code is collaborative. Innovation is diverse. Impact is intentional.
-Open to learn, grow, and collaborate.
+Innovation distinguishes between a leader and a follower - Steve Jobs
 </div>
 

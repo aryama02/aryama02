@@ -1,4 +1,4 @@
-## Hi There, I am Software Engineer 🛠️ 
+## Heyy, there!
 
 ![Me]<img width="1050" height="600" alt="2" src="https://github.com/user-attachments/assets/53b2e04a-2c5a-41fb-8921-a1d789c76eba" />
 ()

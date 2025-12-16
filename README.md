@@ -1,85 +1,131 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mahadi Aryan
-=====================================================================================================================================
+## Hi There, I am Software Engineer 🛠️ 
 
+![Me]<img width="1050" height="600" alt="2" src="https://github.com/user-attachments/assets/53b2e04a-2c5a-41fb-8921-a1d789c76eba" />
+()
+ 
 
-###
+ ## Overview
+```bash
+-> FOCUS:           Backend Scalability & API Security.
+-> PHILOSOPHY:      Code that solves the problem, stripped of the fluff.
+-> CURRENT_MISSION: Solving real-time engineering hurdles.
 
-<img align="right" height="150" s
+# I bring 2 years of hands-on experience in TypeScript, Node.js, and 
+# Database Optimization to build infrastructure that holds up under pressure.
+```
 
-https://github.com/user-attachments/assets/f76002fe-301a-4694-8892-1f279d11bc11
+ <p>
+   <a href="https://www.shatab.me/" target="_blank">Learn more from my portfolio</a> 
+ </p>
 
-rc="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gyMTlzYTBzbzh2azdiMWN5enRwN3cwdjlnang2cDNqNWF0dzZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif"  />
+---
 
-###
+ ## Techonology I work with
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+<div>
+<table>
+    <tr>
+        <td><strong>Backend</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+            <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> -->
+            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Frontend</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Database</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Database & ORM</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+            <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeORM-CB3837?style=for-the-badge&logo=typeorm&logoColor=white" />
+            <img src="https://img.shields.io/badge/Knex.js-FFDB4D?style=for-the-badge&logoColor=black" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Auth & BaaS</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+            <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        </td>
+    </tr>
+<tr>
+  <td><strong>Cloud & Tools</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/GCP-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  </td>
+</tr>
+
+</table>
 </div>
 
-###
+---
 
-<div align="left">
-<a href="https://www.instagram.com/aryy_innit/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-</a>
-<a href =
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
-  
-<div align="left">
-  <a href="mailto:mahadihossainaryan@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email Contact Link" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/mahadi-hossain-aryan-660520227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Profile Link" />
-  </a>
+## Language I use to
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 💼 Experience
+
+#### 🏢 ERPCAP (USA) — *Project Intern*   [📍 Remote | 🗓️ May 2024 – June 2024 ] 
+
+#### 🏢 ClooudGen — *Full Stack Software Engineer*   [📍 Remote | 🗓️ December 2024 – May 2025  ]
+#### 🏢 SM-Technology — *Backend Engineer*   [📍 On-site | 🗓️ June 2025 – August 2025  ]
+#### 🏢 ERPCAP(USA) — *Full Stack Software Engineer*   [📍 Remote | 🗓️ September 2025 – Running  ]
+
+---
+
+## Backend projects 
+
+### Online university management system  .
+<div>
+    <a href="https://github.com/Shatab99/Student-University-With-TS.git">Github</a></br>
+    <a href="https://student-university-with-ts.vercel.app/">Live Server</a>
 </div>
 
+### Online Bike Renting center .
+
+<div>
+    <a href="https://github.com/Shatab99/Bike-service-ts.git">Github</a> </br>
+    <a href="https://riding-bike.vercel.app/">Live Server</a></br>
+</div>
+<div>
+    </br>
 </div>
 
+## Enola Voice Assistant (Still Developing) 
 
-
-<div align="center">
-Innovation distinguishes between a leader and a follower - Steve Jobs
+<div>
+    👉&nbsp;&nbsp;<a href="https://github.com/Shatab99/Enola-Voice-assistant.git">Github</a> </br>
+</div>
+<div>
+    </br>
 </div>
 
+## Full Stack Projects are pinned here (With live server) 👇 

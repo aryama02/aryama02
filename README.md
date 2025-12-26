@@ -71,13 +71,13 @@
 
 ## Projects 
 
-### House Price Prediction Model for NY .
+### New York Real Estate Valuation Model
 <div>
     <a href="https://github.com/aryama02/House_price_prediction_Backend">Github BackEnd</a></br>
     <a href="https://aryama02.github.io/House_Price_Predictor_Front_End-/">Live Server</a>
 </div>
 
-### Iron_Man_Jarvis.
+### Voice-Activated AI Assistant (Jarvis).
 
 <div>
     <a href="https://github.com/aryama02/Voice_Assistant.git">Github</a> </br>
@@ -87,7 +87,8 @@
     </br>
 </div>
 
-## Industrial Level Chat Bot
+## Intelligent-Business-Assistant
+
 
 <div>
     👉&nbsp;&nbsp;<a href="https://github.com/aryama02/Ai-ChatBot.git">Github</a> </br>

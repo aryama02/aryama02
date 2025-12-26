@@ -74,7 +74,7 @@
 ### New York Real Estate Valuation Model
 <div>
     <a href="https://github.com/aryama02/House_price_prediction_Backend">Github BackEnd</a></br>
-    <a href="https://aryama02.github.io/House_Price_Predictor_Front_End-/">Live Server</a>
+    <a href="https://aryama02.github.io/New-York-Real-Estate-Valuation_Frontend/">Live Server</a>
 </div>
 
 ### Voice-Activated AI Assistant (Jarvis).

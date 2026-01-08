@@ -49,7 +49,6 @@
   <td>
     <img src="https://img.shields.io/badge/GCP-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
   </td>
 </tr>
 
